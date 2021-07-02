@@ -1,7 +1,7 @@
 {
-  "name": "deep-equal",
+  "name": "deep-pick-nested-array",
   "version": "1.0.0",
-  "description": "Deep Equal for nested JSON objects",
+  "description": "Deep Pick properties for nested JSON objects along with array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
